@@ -1,7 +1,7 @@
 package Program8;
 class Person {
-    String firstName = "onkar";
-    String lastName = "paitwar";
+    String firstName = "krish";
+    String lastName = "yadav";
 
     String getFirstName() {
         return firstName;
